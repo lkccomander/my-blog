@@ -6,6 +6,6 @@ draft: false
 
 # Hello there
 
-Welcome to my blog! XXX
+Welcome to my blog! 
 
 {{< form-contact action="/api/contact" >}}

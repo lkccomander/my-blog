@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Anthony's blog"
+title = "COMANDER's blog"
 theme = "ananke"
 
 [markup.goldmark.renderer]
